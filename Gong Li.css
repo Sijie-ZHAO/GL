@@ -1,0 +1,22 @@
+header{
+    background-color:#666699;
+    border:5px #333366;
+    padding:30px;
+ }
+ nav{
+    background-color:#9999cc;
+    border:5px #333366;
+    padding:30px;
+ }
+ main{
+    background-color:#CCCCFF;
+    border:5px #333366;
+    padding:30px;
+ }
+ main a {
+    text-decoration:none;
+ }
+ main a:hover {
+    text-decoration:underline;
+    color:#666699;
+ }
